@@ -1,7 +1,6 @@
-### Fala meus consagrados👋
+### Antes de tudo, você é especial, seu código é lindo, nunca deixe ninguém chamar obra de arte de gambiarra👋❤️ Meu Ado Lovelaço
 
-> [!NOTE]\
-E ai gente tudo certo? Sou de Campina Grande - PB terra da galera que ama forró e código, atualmente sou dev backend com interesse particular em Ruby e PHP, mas parte do meu coração tá com o Javascript. O que mais ando mexendo atualmente é com Laravel, Rails e Vue, mas a gente faz de tudo um pouco e tá tudo certo. Venho adquirindo o hábito de sempre que aprendo algo novo tento criar uma lib ou artigo no Medium e meu lema é Sem Café/Sem Código!. 
+>  E ai gente tudo certo? Sou de Campina Grande - PB terra da galera que ama forró e código, atualmente sou dev backend com interesse particular em Ruby e PHP, mas parte do meu coração tá com o Javascript. O que mais ando mexendo atualmente é com Laravel, Rails e Vue, mas a gente faz de tudo um pouco e tá tudo certo. Venho adquirindo o hábito de sempre que aprendo algo novo tento criar uma lib ou artigo no Medium e meu lema é Sem Café/Sem Código!. 
 
 <div>
   <a href="https://github.com/pablicio">
