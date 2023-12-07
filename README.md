@@ -18,6 +18,7 @@
   <img align="center" alt="Yuto-RoR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="Yuto-RSpec" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg">
   <img align="center" alt="Yuto-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Yuto-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Yuto-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
   
