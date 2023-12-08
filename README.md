@@ -1,4 +1,4 @@
-### Antes de tudo, você é especial, seu código é lindo, nunca deixe ninguém chamar obra de arte de gambiarra👋❤️ Meu Ado Lovelaço
+### E ai bão? Sou Pablicio👋, espero que goste dos códigos, tmj!
 
 >  E ai gente tudo certo? Sou de Campina Grande - PB terra da galera que ama forró e código, atualmente sou dev backend com interesse particular em Ruby e PHP, mas parte do meu coração tá com o Javascript. O que mais ando mexendo atualmente é com Laravel, Rails e Vue, mas a gente faz de tudo um pouco e tá tudo certo. Meu lema é Sem Café/Sem Código!. 
 
