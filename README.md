@@ -12,11 +12,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Rafa-Vue" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-226015.png">
+  <img align="center" alt="Laravel" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-226015.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Yuto-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Yuto-RoR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="Yuto-RSpec" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg">
+  <img align="center" alt="PHPUNIT" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/phpunit.svg">
   <img align="center" alt="Yuto-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Yuto-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Yuto-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
