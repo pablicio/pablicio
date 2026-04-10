@@ -1,7 +1,7 @@
 # 👋 Thiago Pablicio
 
 Construo sistemas que continuam funcionando quando a pressão começa.  
-Arquitetura, produto e execução — alinhados ao que realmente importa: resultado.
+Arquitetura, produto e execução — orientados a resultado.
 
 ---
 
@@ -21,25 +21,25 @@ Arquitetura, produto e execução — alinhados ao que realmente importa: result
 
 ## ⚙️ Onde eu gero valor
 
-- Sistemas distribuídos sob carga real  
+- Sistemas distribuídos em cenários de carga real  
 - APIs críticas (fintech / seguros)  
 - Tradução de problemas de negócio em soluções executáveis  
-- IA aplicada para acelerar engenharia (não substituir)
+- IA como alavanca de engenharia  
 
 ---
 
 ## 🚀 Em construção
 
-- Edtch — plataforma de aprendizado gamificado  
+- LessonArch — plataforma de aprendizado gamificado  
 - Infra simples, escalável e sustentável  
-- Redução de dívida cognitiva em sistemas complexos  
+- Redução de dívida cognitiva  
 
 ---
 
 ## 🧠 Experiência
 
 - Liderança técnica de equipes (até 20 pessoas)  
-- Projetos críticos com impacto direto no negócio  
+- Projetos com impacto direto no negócio  
 - Atuação ponta a ponta: da concepção à produção  
 
 ---
@@ -47,4 +47,4 @@ Arquitetura, produto e execução — alinhados ao que realmente importa: result
 ## 🧩 Princípio
 
 > Código que funciona é o mínimo.  
-> Engenharia é o que continua funcionando quando tudo começa a falhar.
+> Engenharia é o que continua funcionando sob pressão.
