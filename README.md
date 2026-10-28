@@ -1,4 +1,4 @@
-# 👋 Thiago Pablicio
+# 👋 Thiago Nogueira
 
 Construo sistemas que continuam funcionando quando a pressão começa.  
 Atuo onde a complexidade não é opcional — e decisões técnicas têm impacto real.
