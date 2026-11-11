@@ -17,7 +17,7 @@ engineer:
   role: [Software Architect, Backend Engineer, Author]
   focus: [distributed-systems, critical-apis, reliability, ai-engineering]
   domains: [fintech, insurance, edtech]
-  books: "23+ títulos técnicos — série One (Editora Pensar Bem)"
+  books: "30+ títulos técnicos — série One (Editora Pensar Bem)"
   motto: "Sistemas quebram. Bons engenheiros reagem. Arquitetos antecipam."
 ```
 
@@ -29,7 +29,9 @@ engineer:
 
 ## `> ls ./books --series=one`
 
-> Eu não escrevo teoria de vitrine. Cada livro da série **One** é o que eu aplico em produção: direto, prático, do zero ao deploy.
+> Auto intitulado e proclamado - por falta de objeções - Arquiteto Educacional, consigo montar cursos e livros sobre os mais variados assuntos da Área de tecnologia.
+- Alguns dos meus livros mais vistos ultimamente
+- O meu maior case é sobre algo nada a ver tudo a ver Zettelkasten (A Caixa Mágica) - Para mim, a cola do meu conhecimento
 
 ### `[01]` LANGUAGES
 <sub>Linguagens — da base ao runtime</sub>
